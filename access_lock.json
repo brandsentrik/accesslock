@@ -1,0 +1,25 @@
+{
+"@context":"http://www.schema.org",
+"@type":"LocalBusiness",
+"priceRange":"$25 - $500",
+"telephone":"+702 336 2423",
+"name":"Access Lock and Safe",
+"url":"http://accesslocklv.com/",
+"logo":"https://secureservercdn.net/166.62.112.219/c7p.0f8.myftpupload.com/wp-content/uploads/2021/03/access-lock-logo-2.jpg?time=1618592844",
+"image":"https://secureservercdn.net/166.62.112.219/c7p.0f8.myftpupload.com/wp-content/uploads/2021/03/access-lock-logo-2.jpg?time=1618592844",
+"description":"Since 1995 Access Lock and Safe has been protecting the businesses and homes of Las Vegas, NV. We are Nevada’s premier Las Vegas Locksmith.  Our professional and knowledgeable technicians have solutions using high quality locks, security systems, and cameras, to secure your business or home.",
+"address": 
+{
+"@type":"PostalAddress",
+"streetAddress":"455 E Pebble Rd Las Vegas, NV 89123",
+"addressLocality":"Las Vegas",
+"addressRegion":"NV ",
+"postalCode":"89123",
+"addressCountry":"US"},
+"geo":
+{
+"@type":"GeoCoordinates",
+"latitude":"36.027010",
+"longitude":"-115.153410"
+},"hasMap":"https://www.google.com/maps?cid=2886579532147080809","openingHours":"Mo, Tu, We, Th, Fr 08:00-20:00","contactPoint":{"@type":"ContactPoint","contactType":"customer support","telephone":"+1-702 336 2423" }
+}
