@@ -29,7 +29,7 @@ Syntax highlighted code block
 [Access Lock and Safe](https://www.google.com/maps/place/Access+Lock+and+Safe/@36.136222,-115.1574945,10z/data=!4m2!3m1!1s0x0:0x280f30ca6d8a3e69?sa=X&ved=2ahUKEwj4usamjYX1AhXsIjQIHfeACTEQ_BJ6BAgrEAU)
 
 
-[Google Docs](https://www.google.com/maps/place/Access+Lock+and+Safe/@36.136222,-115.1574945,10z/data=!4m2!3m1!1s0x0:0x280f30ca6d8a3e69?sa=X&ved=2ahUKEwj4usamjYX1AhXsIjQIHfeACTEQ_BJ6BAgrEAU)
+[Google Docs](https://docs.google.com/document/d/e/2PACX-1vQv1ACmw2x1-JoKSueBbepK_IddG2ACioUpIjn2hny2_p-QQcTybvhvnm_thZ7LeW-urY6_1LjQnB4w/pub?embedded=true)
 
 
 
