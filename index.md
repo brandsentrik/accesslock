@@ -23,7 +23,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412449.20890332607!2d-115.4376814226246!3d36.135895723398185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8c5b8a216f4ed%3A0x280f30ca6d8a3e69!2sAccess%20Lock%20and%20Safe!5e0!3m2!1sen!2sus!4v1640226749220!5m2!1sen!2sus](url) and ![Image](src)
 ```
 
 [Access Lock and Safe](https://www.google.com/maps/place/Access+Lock+and+Safe/@36.136222,-115.1574945,10z/data=!4m2!3m1!1s0x0:0x280f30ca6d8a3e69?sa=X&ved=2ahUKEwj4usamjYX1AhXsIjQIHfeACTEQ_BJ6BAgrEAU)
